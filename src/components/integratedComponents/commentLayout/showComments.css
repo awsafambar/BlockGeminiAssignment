@@ -1,0 +1,8 @@
+.showComments {
+  display: flex;
+  flex-direction: column;
+  padding: 2%;
+  margin-left: 2%;
+}
+.eachComment {
+}

@@ -1,0 +1,17 @@
+.postDetailComponent {
+  display: flex;
+}
+.postDetailComponentHeader {
+  text-align: center;
+  margin-bottom: 3%;
+  margin-top: 3%;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}

@@ -1,0 +1,9 @@
+.displayDetails {
+  display: flex;
+}
+.labelHeader {
+  width: 60px;
+}
+.data {
+  margin-bottom: 1%;
+}

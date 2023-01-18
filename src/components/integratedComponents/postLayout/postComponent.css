@@ -1,0 +1,19 @@
+.postComment {
+  display: flex;
+}
+.eachPost {
+  margin-top: 1%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.eachPost:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 1);
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 3%;
+}
+.postform {
+  margin-left: 2%;
+}
